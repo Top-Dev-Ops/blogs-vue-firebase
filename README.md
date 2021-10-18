@@ -2,6 +2,7 @@
 
 ## Available In
 Navigate to [https://fireblogsyt-2e161.web.app/](https://fireblogsyt-2e161.web.app/)<br />
+Available in [https://blogs-vue-firebase.vercel.app/](https://blogs-vue-firebase.vercel.app/)
 
 ## Project setup
 ```
