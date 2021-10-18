@@ -1,5 +1,8 @@
 # fireblogs
 
+## Available In
+Navigate to [https://fireblogsyt-2e161.web.app/](https://fireblogsyt-2e161.web.app/)<br />
+
 ## Project setup
 ```
 npm install
